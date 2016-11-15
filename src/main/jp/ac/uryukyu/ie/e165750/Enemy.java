@@ -1,8 +1,8 @@
 package jp.ac.uryukyu.ie.e165750;
 
 
- * Created by e165750 on 2016/11/15.
- */
+ //* Created by e165750 on 2016/11/15.
+ //*/
 public class Enemy {
     /**
      * 敵クラス。
